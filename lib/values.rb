@@ -10,7 +10,6 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  new_values = groceries.values
-  new_values
+  groceries.values
   binding.pry
 end
