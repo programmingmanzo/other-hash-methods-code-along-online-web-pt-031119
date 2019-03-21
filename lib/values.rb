@@ -12,5 +12,5 @@ def get_the_values(groceries)
   #code your solution here!
   new_values = groceries.values
   new_values
-  #binding.pry
+  binding.pry
 end
