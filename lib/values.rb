@@ -10,4 +10,7 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
+  new_values = groceries.values.flatten   #flatten will place all values in 1 array
+  new_values
+  #binding.pry
 end
